@@ -1,4 +1,6 @@
-# vsftpd-backdoor
+# vsftpd-2.3.4
+Preserved here for my students, review this for hints on how to remotely access the final project server.
+
 This is a backdoored version of vsftpd which has been packaged and configured for the convience of performing an example backdoor into a system.
 vsftpd is an FTP server which was created by Chris Evans and is available at vsftpd.beasts.org, this repo uses version 2.3.4.
 
